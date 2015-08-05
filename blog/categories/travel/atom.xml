@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Travel | Harvey Xia]]></title>
   <link href="http://harveyxia.github.io/blog/categories/travel/atom.xml" rel="self"/>
   <link href="http://harveyxia.github.io/"/>
-  <updated>2015-08-04T22:07:16-04:00</updated>
+  <updated>2015-08-04T22:18:11-04:00</updated>
   <id>http://harveyxia.github.io/</id>
   <author>
     <name><![CDATA[Harvey Xia]]></name>
@@ -44,7 +44,7 @@
 
 <p>He went on to warn us about the apocalyptic dangers ahead. Instead of preaching to us the typical fire-and-brimstone voice of urgency, he spoke to us casually, nodding his head for emphasis. We asked him once again if he wanted food or water. He shook his head, insisting he was fine. As we walked on, I wondered if he really was fine. I wondered if he denied our help out of dignity, under some illusion that he was okay. I resisted the urge to glance back. Planes droned and the highway hummed in the background. All of it seemed far away in the distance.</p>
 
-<p><a href="/images/floodchannels.jpg" class="fancybox" title=""><img src="/images/floodchannels.jpg"  alt="" /></a></p>
+<p>{% photo /images/floodchannels.jpg /images/floodchannels.jpg %}</p>
 
 <p>Photo by Jason Kim.</p>
 ]]></content>

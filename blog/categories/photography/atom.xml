@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Photography | Harvey Xia]]></title>
   <link href="http://harveyxia.github.io/blog/categories/photography/atom.xml" rel="self"/>
   <link href="http://harveyxia.github.io/"/>
-  <updated>2015-08-04T22:07:16-04:00</updated>
+  <updated>2015-08-04T22:18:11-04:00</updated>
   <id>http://harveyxia.github.io/</id>
   <author>
     <name><![CDATA[Harvey Xia]]></name>
@@ -18,7 +18,7 @@
     <link href="http://harveyxia.github.io/silliman-sunset"/>
     <updated>2013-05-04T20:43:00-04:00</updated>
     <id>http://harveyxia.github.io/silliman-sunset</id>
-    <content type="html"><![CDATA[<p><img src="/images/silliman.JPG" width="700"></p>
+    <content type="html"><![CDATA[<p>{% img /images/silliman.JPG 700x600 %}</p>
 ]]></content>
   </entry>
   

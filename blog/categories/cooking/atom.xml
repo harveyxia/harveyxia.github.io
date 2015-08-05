@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Cooking | Harvey Xia]]></title>
   <link href="http://harveyxia.github.io/blog/categories/cooking/atom.xml" rel="self"/>
   <link href="http://harveyxia.github.io/"/>
-  <updated>2015-08-04T22:07:16-04:00</updated>
+  <updated>2015-08-04T22:18:11-04:00</updated>
   <id>http://harveyxia.github.io/</id>
   <author>
     <name><![CDATA[Harvey Xia]]></name>
@@ -24,7 +24,7 @@
 
 <p>Sapporo Ramen is a charming little shop hidden away in a small shopping center. It's the size of a living room, and it's tiny kitchen is tucked away in a corner. There are only about 7 or 8 tables, and a line usually stretches down the hallway. I have always been a big fan of instant ramen, especially the fiery Korean Shin brand. I was blown away by my first real bowl of ramen, served in a large clay bowl, filled to the brim with yellow noodles and steaming broth. Ramen looks very attractive when served with all its toppings laid out nicely. I told myself to remember to snap a picture before I dug in, but my appetite got the better of me. Caitlin reminded me, but it was too late.</p>
 
-<p><img class="center" src="/images/not-so-instant_ramen/sapporo_ramen.jpg" title="'Before I ate it all'" ></p>
+<p>{% img center /images/not-so-instant_ramen/sapporo_ramen.jpg 'Before I ate it all'%}</p>
 
 <p>The broth, brewed with pork bones and aromatics for over 10 hours, tastes amazing — a savory and salty umami heaven. The yellow wheat noodles are what the name 'ramen' refers to. They are made using <a href="http://en.wikipedia.org/wiki/Ramen#Noodles">kansui</a>, a mix of sodium carbonate and potassium carbonate. The alkalinity of these two compounds keeps the noodles from becoming mushy when sitting in the hot broth and helps them maintain the chewiness that makes them so satisfying to munch on. On top of the broth and ramen, a number of toppings are placed. This <a href="http://en.wikipedia.org/wiki/Ramen#Regional_variations">depends on the style</a>. The noodles I ordered had pork, beansprouts, scallions, nori (dried seaweed), corn, and half a boied egg.</p>
 
@@ -38,7 +38,7 @@
 
 <p>After two days of preparation, it was pretty satisfying to see the finished bowls.</p>
 
-<p><img class="center" src="/images/not-so-instant_ramen/homemade_ramen.jpg" title="'One of the greatest achievements to date'" ></p>
+<p>{% img center /images/not-so-instant_ramen/homemade_ramen.jpg 'One of the greatest achievements to date'%}</p>
 
 <p>Attention to the details is what defines great ramen, and from experience, I can say that this dish has a very high skill cap. What I mean by that is that unlike some foods (making toast, for instance), ramen can vary greatly in its quality — from great to legendary. It's also a dish that gives the chef lots of space for innovation, both in preparation method and choice of ingredients. There are so many styles of ramen out there, and each shop has its own signature variations that define the dish.</p>
 

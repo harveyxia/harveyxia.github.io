@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Essays | Harvey Xia]]></title>
   <link href="http://harveyxia.github.io/blog/categories/essays/atom.xml" rel="self"/>
   <link href="http://harveyxia.github.io/"/>
-  <updated>2015-08-04T22:07:16-04:00</updated>
+  <updated>2015-08-04T22:18:11-04:00</updated>
   <id>http://harveyxia.github.io/</id>
   <author>
     <name><![CDATA[Harvey Xia]]></name>
@@ -50,11 +50,11 @@
     <link href="http://harveyxia.github.io/the-distractions-of-college"/>
     <updated>2013-11-26T15:56:00-05:00</updated>
     <id>http://harveyxia.github.io/the-distractions-of-college</id>
-    <content type="html"><![CDATA[<p>I've been trying to write a blog post for a few weeks now, but I couldn't seem to follow through with it, for reasons that I'll try my best to articulate. My hope is that trying to put these nebulous feelings into words will help me figure out just what it is that I've been feeling, it seems, more and more intensely since the beginning of college — this unsettling feeling that I'm losing some nameless quality of myself, the value of which I can intuitively sense but can't articulate; an unsettling feeling that colors all of my experiences with the question <em>Does this matter?</em>, and an urgency to do and experience things that, beyond a doubt, have meaning. I realize that all of this sounds very existential. I would agree. But what I'm experiencing can't simply be pigeonholed into the stereotypical "existential crisis." From talking with friends and reading various essays, <sup id='fnref:1'><a href='#fn:1' rel='footnote'>1</a></sup> it seems that I'm not the only one struggling with the questions I'm about to raise. (In fact, what inspired me to write this in the first place was an anonymous email that a Yale student sent out commenting on Yale's culture).</p>
+    <content type="html"><![CDATA[<p>I've been trying to write a blog post for a few weeks now, but I couldn't seem to follow through with it, for reasons that I'll try my best to articulate. My hope is that trying to put these nebulous feelings into words will help me figure out just what it is that I've been feeling, it seems, more and more intensely since the beginning of college — this unsettling feeling that I'm losing some nameless quality of myself, the value of which I can intuitively sense but can't articulate; an unsettling feeling that colors all of my experiences with the question <em>Does this matter?</em>, and an urgency to do and experience things that, beyond a doubt, have meaning. I realize that all of this sounds very existential. I would agree. But what I'm experiencing can't simply be pigeonholed into the stereotypical "existential crisis." From talking with friends and reading various essays, {% fn_ref 1 %} it seems that I'm not the only one struggling with the questions I'm about to raise. (In fact, what inspired me to write this in the first place was an anonymous email that a Yale student sent out commenting on Yale's culture).</p>
 
 <p>Late on a Friday night after an exhausting week, I was determined to write a blog post much like the one I'm attempting now. I wrote the following:</p>
 
-<p><img class="center" src="/images/calvinandhobbes_summer.gif"></p>
+<p>{% img center /images/calvinandhobbes_summer.gif %}</p>
 
 <blockquote><blockquote><p>I love this sentiment in <em>Calvin and Hobbes</em>, the idea that in certain moments, the best thing to do is to do nothing at all. Of course, here Calvin and Hobbes aren't literally doing nothing at all; they're sitting back and taking in the beautiful summer day. It makes me think of those perfect summer days where the tree you are sitting under casts a generous shade while the sun above sets the surrounding scenary in the most flattering light. Cool grass between your fingers and toes, gentle winds rustling the leaves. Everything feels, sounds, and looks perfect, invoking a feeling of complete carefree laziness. At its very best, it feels as if you've been transported to a place where your day-to-day worries are so distant that they cease to exist, where being lazy is the virtue.</p>
 
@@ -89,14 +89,9 @@ For the college student, even his leisure time is...</p></blockquote></blockquot
 
 <p>And just as importantly, pursuing experiences to get to know myself and the world. Chasing those experiences that keep alive our innate sensibility to the beauty of the world, a sensibility that dulls with age and with time. Revolting against the incessant demands of practicality as a proud romantic, eyes directed toward the sublime. Because what is it all for if we can no longer dream?</p>
 
-<p><div class="footnotes">
-	<ol>
-		<li id='fn:1'><p> <a href="http://www.freewebs.com/lanzbom/EBWhiteLakeEssay.pdf">Once More to the Lake by E.B. White</a> <br> <a href="http://web.ics.purdue.edu/~drkelly/DFWKenyonAddress2005.pdf">Kenyon Commencement Speech by David Foster Wallace</a> <br> <a href="http://www.harveyxia.com/mr-mcculloughs-2012-commencement-speech/">Wellesley High School 2012 Commencement Speech by David McCullough Jr.</a> <br> <a href="http://thoughtcatalog.com/charles-warnke/2011/01/dont-date-a-girl-who-reads/">You Should Date an Illiterate Girl by Charles Warnke</a> <br> <a href="http://opinionator.blogs.nytimes.com/2009/09/17/the-referendum/?_r=1">The Referendum by Tim Kreider</a> <br> <a href="http://mitadmissions.org/blogs/entry/meltdown">Meltdown by Lydia K.</a> <br>
-<a href='#fnref:1' rev='footnote'>↩</a></p>
-</li>
-	</ol>
-</div>
-</p>
+<p>{% footnotes %}
+  {% fn %} <a href="http://www.freewebs.com/lanzbom/EBWhiteLakeEssay.pdf">Once More to the Lake by E.B. White</a> <br> <a href="http://web.ics.purdue.edu/~drkelly/DFWKenyonAddress2005.pdf">Kenyon Commencement Speech by David Foster Wallace</a> <br> <a href="http://www.harveyxia.com/mr-mcculloughs-2012-commencement-speech/">Wellesley High School 2012 Commencement Speech by David McCullough Jr.</a> <br> <a href="http://thoughtcatalog.com/charles-warnke/2011/01/dont-date-a-girl-who-reads/">You Should Date an Illiterate Girl by Charles Warnke</a> <br> <a href="http://opinionator.blogs.nytimes.com/2009/09/17/the-referendum/?_r=1">The Referendum by Tim Kreider</a> <br> <a href="http://mitadmissions.org/blogs/entry/meltdown">Meltdown by Lydia K.</a> <br>
+{% endfootnotes%}</p>
 ]]></content>
   </entry>
   
