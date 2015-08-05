@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Photography | Harvey Xia]]></title>
+  <link href="http://harveyxia.github.io/blog/categories/photography/atom.xml" rel="self"/>
+  <link href="http://harveyxia.github.io/"/>
+  <updated>2015-08-04T22:07:16-04:00</updated>
+  <id>http://harveyxia.github.io/</id>
+  <author>
+    <name><![CDATA[Harvey Xia]]></name>
+    <email><![CDATA[harvey@harveyxia.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Silliman at Sunset]]></title>
+    <link href="http://harveyxia.github.io/silliman-sunset"/>
+    <updated>2013-05-04T20:43:00-04:00</updated>
+    <id>http://harveyxia.github.io/silliman-sunset</id>
+    <content type="html"><![CDATA[<p><img src="/images/silliman.JPG" width="700"></p>
+]]></content>
+  </entry>
+  
+</feed>
